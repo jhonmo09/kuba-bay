@@ -10,7 +10,7 @@ const ImageCarousel = () => {
     "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-121.jpg?alt=media&token=fe271ed3-77e7-41be-8cfc-9d70c1808b13",
     "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-075.jpg?alt=media&token=a10617cf-0fcc-4e38-9967-b0ce66524bba",
     "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-005.jpg?alt=media&token=ebe36277-b542-4a9f-a298-55a8b6386139",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2F1D3A2199.jpg?alt=media&token=8d8e83bc-c012-48ed-9c47-55c9cd43c6ab",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-10.jpg?alt=media&token=f00aa82c-c555-4365-bec5-08913bc0da07",
   ];
 
   const handleShowAllClick = () => {

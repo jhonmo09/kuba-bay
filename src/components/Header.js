@@ -10,7 +10,7 @@ const Header = ({ onSearch }) => {
         <div className="">
           {/* Reemplace 'logo.png' con el nombre de archivo de su imagen de logo. */}
           <img
-            src="/static/images/logo.jpeg"
+            src="/static/images/logo.png"
             alt="Logo"
             className="w-24 sm:w-20 md:w-24 lg:w-32"
           />
