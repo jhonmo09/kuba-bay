@@ -6,32 +6,18 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const imageList = [
   [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-121.jpg?alt=media&token=fe271ed3-77e7-41be-8cfc-9d70c1808b13",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-004.jpg?alt=media&token=626edad0-a7d3-4b96-bd3c-67b1bd8f481e",
   ],
   [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-075.jpg?alt=media&token=a10617cf-0fcc-4e38-9967-b0ce66524bba",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-005.jpg?alt=media&token=ebe36277-b542-4a9f-a298-55a8b6386139",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-075%20(1).jpg?alt=media&token=3aff6ebc-97da-49b3-93ea-f07de7a6fd30",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-121%20(1).jpg?alt=media&token=e7ffafcc-44c6-4a51-9a92-5e3307f1228e",
   ],
   [
     "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-10.jpg?alt=media&token=f00aa82c-c555-4365-bec5-08913bc0da07",
   ],
   [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-cabana.appspot.com/o/imagenes%2F1D3A0012.jpg?alt=media&token=911b82ad-c9c4-4129-9e05-b1785b22091c",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-cabana.appspot.com/o/imagenes%2F1D3A0096.jpg?alt=media&token=5c6ef6ca-990c-4e59-8a50-ace225312e53",
-  ],
-  [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-20.jpg?alt=media&token=3df46c09-6b4c-466e-89b4-ecc7f008568b",
-  ],
-  [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-cabana.appspot.com/o/imagenes%2F1D3A0150.jpg?alt=media&token=eb687395-085b-4e18-9e4c-92db0fc2ea96",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-cabana.appspot.com/o/imagenes%2F1D3A1139.jpg?alt=media&token=972790c8-4873-4b21-8d48-b56e726deb18",
-  ],
-  [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-27.jpg?alt=media&token=3d0f5f9a-dd04-429f-9e16-a33129882b79",
-  ],
-  [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-cabana.appspot.com/o/imagenes%2F1D3A3906.jpg?alt=media&token=67671013-265a-42d2-b7af-78d9b877ec15",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-31.jpg?alt=media&token=5c99c499-bacc-4e76-bb33-9cc7c36d2593",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-04.jpg?alt=media&token=5672cd48-42d7-4b66-bf2e-16fc3e50025e",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-034.jpg?alt=media&token=412fad61-43b6-44a7-9c69-14b53fe4b723",
   ],
 ];
 

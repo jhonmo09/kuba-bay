@@ -7,9 +7,9 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 const ImageCarousel = () => {
   const router = useRouter(); // Obtén el objeto router
   const images = [
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-121.jpg?alt=media&token=fe271ed3-77e7-41be-8cfc-9d70c1808b13",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-075.jpg?alt=media&token=a10617cf-0fcc-4e38-9967-b0ce66524bba",
-    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-005.jpg?alt=media&token=ebe36277-b542-4a9f-a298-55a8b6386139",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-004.jpg?alt=media&token=626edad0-a7d3-4b96-bd3c-67b1bd8f481e",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-075%20(1).jpg?alt=media&token=3aff6ebc-97da-49b3-93ea-f07de7a6fd30",
+    "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2FKuba%20bay-121%20(1).jpg?alt=media&token=e7ffafcc-44c6-4a51-9a92-5e3307f1228e",
     "https://firebasestorage.googleapis.com/v0/b/squeezzed-kuba-bay.appspot.com/o/imagenes%2Fkubabay%20shoot-10.jpg?alt=media&token=f00aa82c-c555-4365-bec5-08913bc0da07",
   ];
 
